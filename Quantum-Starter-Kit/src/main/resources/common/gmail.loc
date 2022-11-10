@@ -1,0 +1,6 @@
+#locator repository for gmail page
+
+email.id = {//*[@id="identifierId"]}
+next.button={//*[@id="identifierNext"]/div/button/span}
+password={//*[@id="password"]/div[1]/div/div[1]/input}
+next.password.button={//*[@id="passwordNext"]/div/button/span}
